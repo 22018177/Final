@@ -371,7 +371,20 @@ However, despite the project's ability to accurately recognize expressions in mo
 Furthermore, due to the design of the project, both the listener and the observed individual may experience some posture restrictions during use. If a person moves out of the camera's field of view, the emotion recognition function will not work correctly, leading to a failure in emotional transmission. Therefore, users need to be aware of these limitations when using the project and operate it in suitable environments and conditions to ensure the best communication experience.
 
 
+## other
+Algorithm：CNN
+tutorial：https://oarriaga.github.io/paz/
+dataset：
+https://www.kaggle.com/datasets/msambare/fer2013
+http://www.cl.cam.ac.uk/research/dtg/attarchive/facedatabase.html
+http://cbcl.mit.edu/software-datasets/heisele/facerecognition-database.html
+https://github.com/watersink/CMU-MIT
+http://www.milbo.org/muct/
 
+
+Achievements：
+The graphics of multiple training sets were mixed, and after personal integration and modification, the accuracy of the model was improved, and the components could be better combined for output testing. I had close contact with people with visual impairments and tried to get them to take the first step. .
+​
 
 
 
