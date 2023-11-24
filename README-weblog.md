@@ -211,10 +211,7 @@ Tweak the work and keep writing the pap.
 The final implementation involves the listener placing their hand on the white box, while the person being observed opens the camera window. Through the camera, the emotions of the observed individual are recognized. The Python script then sends this data to the Arduino, which activates the tactile buttons on the white box to represent the detected emotion. There are five different scenarios:
 When the recognized emotion is happy, the results in the window and the status of the white box's buttons are as shown in Figures：
 
-![image](https://github.com/22018177/Final/assets/117812805/2d277933-2c91-4659-9421-cb3050ca6f21)
-
-![image](https://github.com/22018177/Final/assets/117812805/0fb80763-079e-44ad-96cd-ffbec74af152)
-
+![Uploading 3ADDCAE0C8AE62D0BA42106DE73D5173.png…]()
 
 
 
