@@ -1,4 +1,4 @@
-# Graduation Design Log
+![32234C03390E0EB3AA970A40D6519DB7](https://github.com/22018177/Final/assets/117812805/d970fb66-8d50-4229-a832-298f474943f5)![BF03F8CC4E36749D6E2D5F1B1AF365DF](https://github.com/22018177/Final/assets/117812805/b3adea05-bb6d-4da7-9a25-85caa310cad1)# Graduation Design Log
 ## Authorname
 Jiaxin Liang
 ## Student ID
@@ -211,7 +211,61 @@ Tweak the work and keep writing the pap.
 The final implementation involves the listener placing their hand on the white box, while the person being observed opens the camera window. Through the camera, the emotions of the observed individual are recognized. The Python script then sends this data to the Arduino, which activates the tactile buttons on the white box to represent the detected emotion. There are five different scenarios:
 When the recognized emotion is happy, the results in the window and the status of the white box's buttons are as shown in Figures：
 
-![Uploading 3ADDCAE0C8AE62D0BA42106DE73D5173.png…]()
+![3ADDCAE0C8AE62D0BA42106DE73D5173](https://github.com/22018177/Final/assets/117812805/219dbb18-df1f-4edc-9a39-d48fd6240f6e)
+
+![BF03F8CC4E36749D6E2D5F1B1AF365DF](https://github.com/22018177/Final/assets/117812805/73f33f89-e74e-4f80-9451-555b9a5f0985)
+
+
+When the recognized emotion is sad, the results in the window and the status of the white box's buttons are as shown in Figures：
+
+
+
+![147078133F24F9346394EE9850B3B3BB](https://github.com/22018177/Final/assets/117812805/52999787-ec0c-474d-8022-05eec2f93563)
+
+![32234C03390E0EB3AA970A40D6519DB7](https://github.com/22018177/Final/assets/117812805/03a75bd9-91b0-46ba-a9e1-e253790dfbbe)
+
+
+When the recognized emotion is anger, the results in the window and the status of the white box's buttons are as shown in Figures ：
+
+
+
+![2F5A592A08360AC563DF1247341FF2ED](https://github.com/22018177/Final/assets/117812805/67d45c88-0634-4c97-868f-8d17f7274231)
+
+![D55B68F0EAF456DBEF34403E5198064E](https://github.com/22018177/Final/assets/117812805/a84f1f11-c2c4-437f-ae12-5a15f2050d18)
+
+
+
+When the recognized emotion is surprise, the results in the window and the status of the white box's buttons are as shown in Figures
+
+
+![2A0A88E52A5FAFEBEA4203512B797B49](https://github.com/22018177/Final/assets/117812805/2afcb5cd-a92a-4871-8a29-34577c2129a3)
+
+![F0766B2C8531788C9C95C1FAE5C32BF6](https://github.com/22018177/Final/assets/117812805/73d3a64f-0640-4474-8494-fab1851db36a)
+
+
+
+When the recognized emotion is natural, the results in the window and the status of the white box's buttons are as shown in Figures
+
+
+
+![AF615041574B9F3133800FA03AC52221](https://github.com/22018177/Final/assets/117812805/50f60cb8-1645-4b9b-989f-61591772b859)
+
+![37F2D2701F2FE1E76985310723D3D730](https://github.com/22018177/Final/assets/117812805/85fb214a-3254-4fb3-a145-c54633cfabfb)
+
+
+After collecting more samples of Asian faces and merging them with the FER2-2013 dataset to enhance the model's recognition of Asian faces, there was a slight improvement in emotion detection accuracy. In practical applications, errors in judging Asian facial expressions were reduced. Initially, there were voltage issues with the Arduino components, but after adjustments and utilizing an adjustable power supply, the problem was resolved, and the system ran smoothly.
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
