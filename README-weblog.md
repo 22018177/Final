@@ -257,6 +257,117 @@ After collecting more samples of Asian faces and merging them with the FER2-2013
 
 
 
+## 11.13-11.21
+### Evaluation
+
+In China, I engaged eight volunteers divided into four pairs, each consisting of a blind listener and a observed individual, for a unique experiment designed to assess the performance of the project in situations where visibility is limited.
+
+### Personal Information
+
+  Among these four pairs of volunteers, two were completely blind, one had cataracts and could only see object outlines, and one had normal vision but experienced simulated blindness by covering their eyes.
+
+Name	Lu Xiaoyan	Wang Jun	Dong hui	Wang qinye
+Age	19	24	41	50
+Gender	female	male	male	female
+Condition	healthy	cataract	blind	blind
+
+
+Name	Shen Tong	Wu Yongfan	Huang Jiashan	Li Yunsheng
+Age	23	52	20	53
+Gender	female	female	male	male
+Condition	healthy	healthy	healthy	healthy
+
+
+### Questionnaire
+
+During the experiment, the blind listener placed their hand on a white box to sense the emotions of the observed individual, rather than directly observing their facial expressions. This setup prevented the blind listener from visually assessing the emotional state of the observed individual, making them rely more on the performance of the project. In the experiment, the observed individual needed to display various emotions while engaging in a natural conversation with the blind listener, testing how well the project performed in this specific scenario. During the conversation, the blind listener had to understand and respond to the emotional states conveyed by the project. This experimental design aimed to simulate real-life communication scenarios to assess the effectiveness and accuracy of the project in practical applications. Through this experiment, we could gain a deeper understanding of the project's applicability in different situations, especially for individuals with visual impairments. It also helped identify potential issues in real-world applications, providing valuable insights for future improvements. Such endeavors contribute not only to refining the project itself but also to advancing related technologies, delivering practical value to a broader user base.
+
+Question 1: Have you encountered this type of product before?
+
+Name	Lu Xiaoyan	Wang Jun	Dong hui	Wang qinye
+Yes or No	No	No	No	No
+
+Name	Shen Tong	Wu Yongfan	Huang Jiashan	Li Yunsheng
+Yes or No	No	No	No	No
+
+Question Two: Have you encountered Braille before?
+Name	Lu Xiaoyan	Wang Jun	Dong hui	Wang qinye
+Yes or No	No	Yes	Yes	Yes
+
+Name	Shen Tong	Wu Yongfan	Huang Jiashan	Li Yunsheng
+Yes or No	No	Yes	No	Yes
+
+
+Question Three: Is it easy to operate?
+Name	Lu Xiaoyan	Wang Jun	Dong hui	Wang qinye
+Yes or No	Yes	Yes	Yes	Yes
+
+Name	Shen Tong	Wu Yongfan	Huang Jiashan	Li Yunsheng
+Yes or No	Yes	No	No	Yes
+
+Question Four: How does the touch feel of the white box?
+
+1.Lu Xiaoyan: Smooth, no sharp edges.
+2.Wang Jun: Gets a bit warm after holding it for a while.
+3.Dong Hui: Smooth, becomes warm.
+4.Wang Qinye: It's okay.
+
+Question Five: Can you smoothly receive the emotions expressed by the white box?
+
+1.Lu Xiaoyan: Need to memorize the patterns for a while, otherwise can't recognize.
+2.Wang Jun: Generally can.
+3.Dong Hui: Can feel it.
+4.Wang Qinye: Can feel it, but it's a bit large.
+
+Question Six: How do you feel about the accuracy of expressing emotions?
+
+1.Shen Tong: Sometimes it's strange.
+2.Wu Yongfan: Seems okay.
+3.Huang Jiashan: Feels like there are many mistakes.
+4.Li Yunsheng: Mostly correct.
+
+Question Seven: Does the accuracy of expressing emotions have any impact on the conversation?
+
+1.Lu Xiaoyan: Seems to have no impact.
+2.Wang Jun: Not really.
+3.Dong Hui: Sometimes don't know whether to cry or laugh.
+4.Wang Qinye: Still hope it's all correct.
+Talker:
+1.Shen Tong: Doesn't seem to have much impact, probably.
+2.Wu Yongfan: Some impact.
+3.Huang Jiashan: Has an impact, feels like emotions are not conveyed.
+4.Li Yunsheng: Still not used to it.
+
+Question Eight: Does the sound or touch of the work have any impact on the conversation?
+
+1.Lu Xiaoyan: No sound.
+2.Wang Jun: No significant impact.
+3.Dong Hui: Notices the mechanical sound of the buttons.
+4.Wang Qinye: There's sound but it doesn't affect the conversation.
+
+Question Nine: How is the overall user experience?
+Listener:
+
+1.Lu Xiaoyan: Memorizing braille is a bit troublesome, but feels magical after remembering.
+2.Wang Jun: Initially couldn't figure out two expressions, took a couple of tries.
+3.Dong Hui: Something never seen before, but it works.
+4.Wang Qinye: A strange feeling, as if you can really see the expressions.
+Talker:
+1.Shen Tong: It's interesting to see your own recognized expressions.
+2.Wu Yongfan: Quite interesting.
+3.Huang Jiashan: Feels like it can be improved.
+4.Li Yunsheng: She thinks it's good as long as she likes it.
+
+
+
+### Summary
+
+This project demonstrates excellent accuracy in facial expression recognition in real-world scenarios. For first-time users, it undoubtedly presents an attractive and innovative technology. The project effectively conveys various emotions, and users can easily understand and receive the emotional information it communicates. In terms of operation, the project is quite user-friendly, with minimal noise and smooth tactile feedback. For both parties engaged in conversation, the entire process is not heavily disrupted.
+
+However, despite the project's ability to accurately recognize expressions in most cases, it has certain limitations in capturing subtle facial expressions. When the observed individual rapidly switches between multiple expressions in a short period, the project may not immediately capture these changes and accurately express various emotions. This limitation may, to some extent, affect the effectiveness of emotional communication.
+
+Furthermore, due to the design of the project, both the listener and the observed individual may experience some posture restrictions during use. If a person moves out of the camera's field of view, the emotion recognition function will not work correctly, leading to a failure in emotional transmission. Therefore, users need to be aware of these limitations when using the project and operate it in suitable environments and conditions to ensure the best communication experience.
+
 
 
 
