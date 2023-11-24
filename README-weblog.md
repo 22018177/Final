@@ -1,5 +1,7 @@
 
 # Graduation Design Log
+vedio：https://youtu.be/f37EYiDYEj4
+
 ![32234C03390E0EB3AA970A40D6519DB7](https://github.com/22018177/Final/assets/117812805/d970fb66-8d50-4229-a832-298f474943f5)
 ## Authorname
 Jiaxin Liang
