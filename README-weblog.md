@@ -174,18 +174,14 @@ Voltage Regulation Refinement: The voltage regulator modules play a vital role i
 
 Circuitry and Wiring Choreography: Basic electronic components, such as circuit boards and copper wires, are intricately woven into the assembly process. The choreography of these elements is meticulously planned to facilitate seamless communication and power distribution among all parts.
 
+![F2BDC59CECB4208BF1E8E2F89519FF43](https://github.com/22018177/Final/assets/117812805/1a0ceb35-f94e-4434-ad65-8c010c03a4db)
+
+![ACE834174A66846873BD66CFB8C6BC40](https://github.com/22018177/Final/assets/117812805/b5266b37-2fbd-46de-a108-0292b4ed0dcf)
+
+![4E3578AFD26C32FAD92C3AA57E22B638](https://github.com/22018177/Final/assets/117812805/56d27759-f925-42a3-9258-c9d00fb7a1b7)
 
 
 
-
-
-![169486156369365297](https://github.com/22018177/Final/assets/117812805/a6421737-0492-41c2-a533-dd7793f66a73)
-
-
-
-![229248839143572758](https://github.com/22018177/Final/assets/117812805/8de9d7e7-a734-442d-a159-b5dfbbc097d3)
-
-![564356478279552196](https://github.com/22018177/Final/assets/117812805/fb9043c3-2d76-4eab-98c5-ced9959d9ac4)
 
 
 
