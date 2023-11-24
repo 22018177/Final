@@ -1,4 +1,6 @@
-![32234C03390E0EB3AA970A40D6519DB7](https://github.com/22018177/Final/assets/117812805/d970fb66-8d50-4229-a832-298f474943f5)![BF03F8CC4E36749D6E2D5F1B1AF365DF](https://github.com/22018177/Final/assets/117812805/b3adea05-bb6d-4da7-9a25-85caa310cad1)# Graduation Design Log
+
+# Graduation Design Log
+![32234C03390E0EB3AA970A40D6519DB7](https://github.com/22018177/Final/assets/117812805/d970fb66-8d50-4229-a832-298f474943f5)
 ## Authorname
 Jiaxin Liang
 ## Student ID
