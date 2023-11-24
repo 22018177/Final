@@ -66,6 +66,41 @@ It was decided to create something that would allow invisible people to "see" th
 I discussed with relatives and friends what to do, and the general direction was determined to be face recognition and arduino external connection.
 
 ## 8.22-8.28
+It was decided to use CNN to try to reach face recognition by training the dataset, using the fer-2013 dataset
+
+![O`7VN$@_P~$Y1)VU2YC }2F](https://github.com/22018177/Final/assets/117812805/db41c88b-a863-4b60-83f8-502e6a24b237)
+
+## 9.1
+On the initial run, most of the expressions recognised were sad, whether they were shown to be angry or happy or in their usual state, they were all judged to be sad.
+
+![5D1DE46A648769198A8E2B8BCDAE4B19](https://github.com/22018177/Final/assets/117812805/e1dd7f4d-a8dc-4f10-a007-a5cd7c86511a)
+
+
+![74BEA3900C622B686F93169E7D2DF056](https://github.com/22018177/Final/assets/117812805/8b2745c2-5639-4e3c-a73a-1981a215be05)
+
+![3F7358CECFE48BFBEF6BEEDBF115132B](https://github.com/22018177/Final/assets/117812805/d2efc437-df49-4d7a-b991-50fae96516f5)
+
+## 9.2-9.20
+Attempts were made to improve the model accuracy using a variety of approaches, trying to select a suitable architecture for the portrait recognition task, fine-tuning the data, trying to adjust the thresholds to optimise the loss function, etc., and making adjustments and optimisations in many ways.
+A lot of problems have arisen, bugs have been created, and tweaks have been made many times during this period.
+There's a small improvement in portrait recognition accuracy, with more pairs of images becoming available.
+
+![040E78EB5D6FFC73AFE429E1C7930014](https://github.com/22018177/Final/assets/117812805/9f05b0b2-a4f9-4375-a4df-e6d88081d401)
+
+
+![BE8CF1A094B8A83C5BA522EF22953E57](https://github.com/22018177/Final/assets/117812805/d47b0fc5-f507-44ac-92bb-48e1bf891c2a)
+
+## 9.21-10.3
+Adjusting the dataset, as I suspected that the original dataset had a majority of Western faces within it and was unable to accurately recognise Asian faces, I decided to add sample data to it and train the model again.
+
+![43D4AC35227487070238C342FD1934D5](https://github.com/22018177/Final/assets/117812805/14af73c4-480a-4c03-b560-64258073c43d)
+
+
+![F82AC8B3AB36AF10540C9A157D7C17B2](https://github.com/22018177/Final/assets/117812805/80c0d5ba-8472-4c8d-9202-abd8297abaec)
+
+
+![FA6B0CC46F664BDEE6BC891134B3480F](https://github.com/22018177/Final/assets/117812805/3d5461db-dd5b-40ae-b622-3bc9389e3dc4)
+
 
 
 
