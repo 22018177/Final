@@ -1,16 +1,12 @@
 
-# Graduation Design Log
+# WebLog
 video：https://youtu.be/f37EYiDYEj4
 
 ![32234C03390E0EB3AA970A40D6519DB7](https://github.com/22018177/Final/assets/117812805/d970fb66-8d50-4229-a832-298f474943f5)
-## Authorname
-Jiaxin Liang
-## Student ID
-22018177
-## Supervisor
-Jasper Zheng
-## Creative Computing Institute
-Creative Computing
+## name：Jiaxin Liang
+## Student ID：22018177
+## Supervisor：Jasper Zheng
+
 # Work Record Log
 ## 6.18
 Conduct an online meeting to get a rough idea of what needs to be done for the final project, receive the assignment and start researching machine learning related content and conceptualise what you want to do.
